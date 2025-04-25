@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pwa-memory-game/static/css/main.4fb2ce85.css",
+    "main.js": "/pwa-memory-game/static/js/main.af9f5c7e.js",
+    "static/js/787.b40c8cb5.chunk.js": "/pwa-memory-game/static/js/787.b40c8cb5.chunk.js",
+    "static/media/courtesan.svg": "/pwa-memory-game/static/media/courtesan.9b50d95dbcc9315ecbaa46bbc1fe9d30.svg",
+    "static/media/detective.svg": "/pwa-memory-game/static/media/detective.11642b7e785165d111b0b7a6022d3489.svg",
+    "static/media/maniac.svg": "/pwa-memory-game/static/media/maniac.29360abb23edcfb48776a0a1b2f0d2a1.svg",
+    "static/media/sheriff.svg": "/pwa-memory-game/static/media/sheriff.47f72c4b35d980b7c232a1ee986b16f5.svg",
+    "static/media/judge.svg": "/pwa-memory-game/static/media/judge.49cd60555faf3a82f96268cc812951f3.svg",
+    "static/media/doctor.svg": "/pwa-memory-game/static/media/doctor.f6395fa0b2f7362d55988eedcc4adba1.svg",
+    "static/media/back.svg": "/pwa-memory-game/static/media/back.453396731aa6a015db04ee332cf943da.svg",
+    "static/media/mafia.svg": "/pwa-memory-game/static/media/mafia.425507685822d05042a004a9df485903.svg",
+    "static/media/logo.svg": "/pwa-memory-game/static/media/logo.58edd8e0841c7f7b92fae15490c2314b.svg",
+    "static/media/citizen.svg": "/pwa-memory-game/static/media/citizen.deef03bf7b9047933221dac8c3faa057.svg",
+    "service-worker.js": "/pwa-memory-game/service-worker.js",
+    "index.html": "/pwa-memory-game/index.html",
+    "main.4fb2ce85.css.map": "/pwa-memory-game/static/css/main.4fb2ce85.css.map",
+    "main.af9f5c7e.js.map": "/pwa-memory-game/static/js/main.af9f5c7e.js.map",
+    "787.b40c8cb5.chunk.js.map": "/pwa-memory-game/static/js/787.b40c8cb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb2ce85.css",
+    "static/js/main.af9f5c7e.js"
+  ]
+}
